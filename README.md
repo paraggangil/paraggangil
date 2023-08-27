@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hello! 👋
 
+<img alt="Animation gif of a rainy day with trees and grass" src="homepage.gif"> </img>
+
+https://vbr.wocr.tk/badge?page_id=visitor_pg1234566
 <!--
 **paraggangil/paraggangil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
